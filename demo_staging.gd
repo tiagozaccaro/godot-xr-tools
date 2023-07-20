@@ -12,7 +12,7 @@ extends XRToolsStaging
 #
 # The primary function here is to trigger the
 # "Press to continue" dialog when switching scenes.
-# We do not want to enter our just loaded scene when the
+# We do not want to enter our just loa	ded scene when the
 # player is still thumbling around putting their headset on
 # so if we detect they hadn't put their headset on yet
 # when we were scene switching, we prompt the user.
